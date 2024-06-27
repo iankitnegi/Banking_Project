@@ -18,7 +18,7 @@ Stakeholder: Mr. Bashnir Rover
 The public dataset is completely available on the Code basis website platform where it stores and consolidates all available datasets for analysis. The specific individual datasets at hand can be obtained at this link below: https://codebasics.io/challenge/codebasics-resume-project-challenge  
 
 ### Data Organized:
-The dataset is taken from the AtliQ. Thanks to the AtliQ for providing datasets for public access which is a great learning asset - feel free to explore them here. This dataset contains only 2 csv file and 1 text file (meta_data)
+The dataset is taken from the AtliQ. Thanks to the AtliQ for providing datasets for public access which is a great learning asset - feel free to explore them. This dataset contains only 2 csv file and 1 text file (meta_data)
 
 
 ## 3. PROCESS  
